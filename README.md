@@ -42,7 +42,7 @@ Ensure that the dataset path in the script matches your directory structure:
 Execute the script in a Python environment to start training and testing the model.
 
 python classify_space_rocks.py
-### Predict Images: The script includes a function to predict and visualize random space rock images with their predicted labels. Modify the number of images to predict in the get_random_images() function if needed:
+Predict Images: The script includes a function to predict and visualize random space rock images with their predicted labels. Modify the number of images to predict in the get_random_images() function if needed:
 
 python
 Copy code
