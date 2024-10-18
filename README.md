@@ -22,24 +22,17 @@ matplotlib
 PIL (Pillow)
 Install the required packages using:
 
-bash
-Copy code
 pip install torch torchvision numpy matplotlib pillow
 ### Dataset
 The dataset should be organized in a folder structure like the one below, with subfolders for each class (e.g., Basalt, Highland):
 
-markdown
-Copy code
-Data/
-    ├── Basalt/
-    └── Highland/
+#### Data/
+  ##### | Basalt
+ #####   └──Highland/
 Place the dataset at the specified path.
 
 ## How to Use
 ### Clone the repository:
-
-bash
-Copy code
 git clone https://github.com/BaRaj/space-rock-classifier.git
 cd space-rock-classifier
 ### Modify dataset directory: 
