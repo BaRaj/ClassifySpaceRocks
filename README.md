@@ -1,4 +1,4 @@
-a# Space Rock Classification Using AI
+# Space Rock Classification Using AI
 This project implements a Convolutional Neural Network (CNN) using a pre-trained ResNet-50 model to classify space rocks into different categories (e.g., Basalt, Highland). The dataset consists of images that are processed using PyTorch's torchvision transforms. The model is trained with a split of training and test data, and the classification performance is evaluated using test accuracy.
 
 ## Features
